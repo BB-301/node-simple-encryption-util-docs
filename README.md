@@ -1,0 +1,3 @@
+# Documentation Website: Simple Node.js Encryption Utility
+
+This is the source code for the [typedoc](https://github.com/TypeStrong/typedoc)-generated documentation website for my [node-simple-encryption-util](https://github.com/BB-301/node-simple-encryption-util) repository, which contains **a simple Node.js library (written in TypeScript) and accompanying CLI tool for encrypting and decrypting data using the AES-256 CBC algorithm.**.
